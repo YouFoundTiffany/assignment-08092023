@@ -1,0 +1,26 @@
+.hero-card {
+    background-color: rgb(186, 186, 186);
+}
+
+/* TODO image not done, must be zoomed out and centered or centered on the stylus*/
+.hero-image {
+    height: 70vh;
+    background-position: 23% 30%;
+    background-image: url(https://images.unsplash.com/photo-1497091071254-cc9b2ba7c48a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1748&q=80);
+
+}
+
+.get-btn {
+    color: #cdcdcd;
+    background-color: #0000001c;
+}
+
+.subscribe {
+    border: black;
+    box-shadow: inset 0 2px 4px 0 hsla(0, 0%, 0%, .28);
+}
+
+.bg-map {
+    height: 40vh;
+    background-image: url(https://images.unsplash.com/photo-1569336415962-a4bd9f69cd83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80);
+}
